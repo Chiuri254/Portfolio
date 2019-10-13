@@ -7,7 +7,7 @@ var data = [
     img: "img/garage.png",
     title: "The Photo Garage",
     desc:
-      "Web app built with the MERN stack. Add /admin to the URL and login as admin to modify the data by sending HTTP requests to the server, contact me for the admin credentials."
+      "Web app built with Django. This a personal gallery application that one displays their photos for others to see and the photos are categorised and are also associated to different places as to where the photos were taken."
   },
   {
     url: "https://cawards.herokuapp.com/",
@@ -15,7 +15,7 @@ var data = [
     img: "img/AWARDS.png",
     title: "The Awards",
     desc:
-      "Single Page Application (SPA) implemented with React, I used the movie database API to fetch dynamic data to the app. Check repo on GitHub for more information."
+      "Single Page Application (SPA) implemented with Django, This is a web application that allows a user to post a project he/she created and it gets reviewed by other users."
   },
   {
     url: "https://foodiem.herokuapp.com/",
@@ -23,7 +23,7 @@ var data = [
     img: "img/foodie.png",
     title: "Foodie",
     desc:
-      "I built this website thinking about real estate, it has galleries and individual listing pages. I integrated some vanilla JavaScript functionalities."
+      "I built this website thinking about preparing food in different styles, it has different recipices for one type of meal. I Used flask and consumed a food API."
   },
   
 ];
